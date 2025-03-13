@@ -2,31 +2,28 @@
 title: "Kylie Linden"
 about:
   template: trestles
-  image: profile.jpg
+  image: meforweb.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kylielin27
+    - text: Email
+      url: "mailto:klinden27@g.ucla.edu" 
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Kylie Linden is an undergraduate student at UCLA. She analyzes data and works on projects. In her free time, she spends her time outdoors and plays with her cat.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Mt. San Jacinto College | San Jacinto, CA
+A.A. in Mathematics | Aug 2022 - June 2023
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+University of California, Los Angeles | Los Angeles, CA
+B.A. in Statistics and Data Science | Sept 2023 - Sept 2025
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
 
 
 
