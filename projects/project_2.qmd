@@ -1,6 +1,8 @@
 ---
 title: "Project 2"
 date: September 20, 2024
+image: markus-winkler-_dICL6joLRk-unsplash.jpg
+description: "Cognition Study"
 ---
 
 # Project Description

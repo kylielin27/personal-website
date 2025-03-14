@@ -1,6 +1,8 @@
 ---
 title: "Project 3"
-date: December 2024
+date: December 13, 2024
+image: i-yunmai-5jctAMjz21A-unsplash.jpg
+description: "Obesity Prediction"
 ---
 
 # Project Description
