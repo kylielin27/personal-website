@@ -1,0 +1,18 @@
+---
+title: "Project 3"
+date: December 2024
+---
+
+# Project Description
+
+I worked with a team to analyze a dataset on obesity and create a model to predict the obesity status of individuals. We created various models to accurately predict obesity. 
+
+# Results
+
+Out of the models we created, we found the most accurate one to be a random forest model with feature importance. We used 16 variables from the dataset in our model. They were Race, Height, Age, FAF, MTRANS, CH2O, family_history_with_overweight, CALC, TUE, FCVC, NCP, CAEC, FAVC, Gender, SCC, and ever_married.
+
+![Density Plot](proj3dens.jpg)
+
+
+![Mean Decrease in Accuracy for the Variables](proj3mda.jpg)
+

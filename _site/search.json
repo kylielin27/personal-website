@@ -7,6 +7,34 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\nSep 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\n\n\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Project Description\nI conducted a study on a virtual island to see the effects of various factors on cognition. I studied the effects of drug use, exercise, gender, and diet on cognition. I then conducted a two-way ANOVA to determine if there was a significant difference before and after the treatments were administered. I created a multiple linear regression model to analyze the significant variables.\n\n\nResults\nI found that there was a significant difference before and after the treatments were administered. I determined the most significant factors on cognition to be diet, gender, and the interaction between diet and gender.\n\n\n\nDiagnostic Plots of Final Model\n\n\n\n\n\nBoxplots of Interaction between Diet and Gender on Cognition"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Project Description\nI worked with a team to analyze a dataset containing various variables for different countries and their life expectancy. We created a multiple linear regression model in R to determine what factors most contributed to life expectancy. We also created plots in R to display our model and the data.\n\n\nResults\nThrough our analysis, we found the most significant factors that impact life expectancy to be alcohol use, BMI, GDP, education, and Population.\n\n\n\nDiagnostic Plots of Our Model\n\n\n\n\n\nHistograms of Significant Variables"
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "Project Description\nI worked with a team to analyze a dataset on obesity and create a model to predict the obesity status of individuals. We created various models to accurately predict obesity.\n\n\nResults\nOut of the models we created, we found the most accurate one to be a random forest model with feature importance. We used 16 variables from the dataset in our model. They were Race, Height, Age, FAF, MTRANS, CH2O, family_history_with_overweight, CALC, TUE, FCVC, NCP, CAEC, FAVC, Gender, SCC, and ever_married.\n\n\n\nDensity Plot\n\n\n\n\n\nMean Decrease in Accuracy for the Variables"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kylie Linden",

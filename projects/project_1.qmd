@@ -1,0 +1,21 @@
+---
+title: "Project 1"
+date: August 4, 2024
+---
+
+# Project Description
+
+I worked with a team to analyze a dataset containing various variables for different countries and their life expectancy. We created a multiple linear regression model in R to determine what factors most contributed to life expectancy. We also created plots in R to display our model and the data.
+
+# Results
+
+Through our analysis, we found the most significant factors that impact life expectancy to be alcohol use, BMI, GDP, education, and Population.
+
+![Diagnostic Plots of Our Model](project1.jpg)
+
+![Histograms of Significant Variables](project1hist.jpg)
+
+
+
+
+

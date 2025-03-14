@@ -1,0 +1,20 @@
+---
+title: "Project 2"
+date: September 20, 2024
+---
+
+# Project Description
+
+I conducted a study on a virtual island to see the effects of various factors on cognition. I studied the effects of drug use, exercise, gender, and diet on cognition. I then conducted a two-way ANOVA to determine if there was a significant difference before and after the treatments were administered. I created a multiple linear regression model to analyze the significant variables.
+
+# Results
+
+I found that there was a significant difference before and after the treatments were administered. I determined the most significant factors on cognition to be diet, gender, and the interaction between diet and gender. 
+
+![Diagnostic Plots of Final Model](proj2diag.jpg)
+
+
+![Boxplots of Interaction between Diet and Gender on Cognition](proj2box.jpg)
+
+
+
